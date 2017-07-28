@@ -1,2 +1,2 @@
 # php-helloworld
-test php hello world repository
+test php hello world
